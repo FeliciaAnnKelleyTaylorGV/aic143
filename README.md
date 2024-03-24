@@ -12,7 +12,11 @@
       <guid>https://automatticstatus.com#/components/4KR4_2Bbilx3_Jt183adY2cBaVqvNAPySjAALxRdeyytxw0DejP5-M1A0GvEjnV-</guid>
       <pubDate>Wed, 28 Feb 2024 00:37:37 +0000</pubDate>
       <description>Akismet API is Operational</description>
-      <site24x7:responsetime>with average response time of 17 ms</site24x7:responsetime>
+      <Felicia Ann Kelley:├── .github
+│   └── workflows
+│       └── azure-static-web-apps-<DEFAULT_HOSTNAME>.yml
+│
+└── (folders and files from your static web app)>with average response time of 17 ms</site24x7:responsetime>
     </item>
     <item>
       <title>Cloudup - Operational</title>
